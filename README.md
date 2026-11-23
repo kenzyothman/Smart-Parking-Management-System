@@ -36,3 +36,8 @@ Managing parking spaces and tracking daily revenue manually is prone to errors a
 1. Clone or download this repository:
    ```bash
    git clone [https://github.com/YOUR-USERNAME/Smart-Parking-Management-System.git](https://github.com/YOUR-USERNAME/Smart-Parking-Management-System.git)
+   ## 👥 Team Members
+- **Kenzy Mohamed** — [GitHub](https://github.com/kenzyothman)
+- **Sahar Hasanen**
+- **Mohamed Abo Bakr**
+- **Mohamed Ibrahim**
